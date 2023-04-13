@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently studying on CUHK!
-- 🌱 I’m currently learning new things.
+- 🌱 I’m currently learning new techniques in computer science.
