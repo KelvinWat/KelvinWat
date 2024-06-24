@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am a Computer Science student in CUHK.👋
 
 <!--
 **KelvinWat/KelvinWat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently studying on CUHK!
-- 🌱 I’m currently learning new techniques in computer science.
+- 🔭 I’m currently studying Deep learning and Software Engineering stuff
+- 🌱 I’m currently learning new techniques in database, cloud, etc.
+- 📫 How to reach me: kelvinwat1204@gmail.com
