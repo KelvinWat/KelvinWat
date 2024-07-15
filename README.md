@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently studying Deep learning and Software Engineering stuff
 - 🌱 I’m currently learning new techniques in database, cloud, etc.
 - 📫 How to reach me: kelvinwat1204@gmail.com
